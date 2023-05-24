@@ -1,0 +1,8 @@
+.link:hover{
+    color: #f6214b !important;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;;
+}
